@@ -1,0 +1,479 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1652176527543934, "dur":2191, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176527546137, "dur":34, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1652176527546187, "dur":16, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1652176527546205, "dur":590, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1652176527546846, "dur":1084, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176527547930, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400119, "dur":357, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400476, "dur":19, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400496, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400500, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400511, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400514, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400525, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400527, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400536, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400539, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400548, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400551, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400560, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400565, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400578, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400583, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400594, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400611, "dur":92, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529400705, "dur":2522, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1652176527547128, "dur":845, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176527547977, "dur":5562, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176527553559, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1652176527553564, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176527554743, "dur":577, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1652176527555324, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1652176527555395, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176527555854, "dur":15146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1652176527571002, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1652176527571141, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176527571177, "dur":299733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1652176527870987, "dur":38309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176527909304, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176527911419, "dur":2196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176527913705, "dur":41923, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176527955635, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176527955650, "dur":15121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176527971035, "dur":238683, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176528209724, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176528209736, "dur":4665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176528214494, "dur":54068, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176528268568, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176528268581, "dur":2157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176528270812, "dur":79246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176528350066, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176528350081, "dur":11195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176528361357, "dur":35746, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176528397111, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176528397125, "dur":2658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176528399855, "dur":179534, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176528579398, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176528579414, "dur":5124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176528584612, "dur":376561, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176528961228, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176528961245, "dur":5008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176528966331, "dur":180762, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176529147101, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176529147117, "dur":1743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1652176529148928, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1652176529148997, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176529149065, "dur":5596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1652176529154737, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":1, "ts":1652176529154812, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176529154823, "dur":1874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":1, "ts":1652176529156768, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":1, "ts":1652176529156844, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176529156878, "dur":2952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":1, "ts":1652176529159910, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1652176529159995, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176529160040, "dur":2402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1652176529162515, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1652176529162587, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176529162599, "dur":1699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1652176529164365, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1652176529164440, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176529164451, "dur":4033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1652176529168559, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/level2.resS" }}
+,{ "pid":12345, "tid":1, "ts":1652176529168659, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176529168670, "dur":3987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/level2.resS" }}
+,{ "pid":12345, "tid":1, "ts":1652176529172730, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1652176529172805, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176529172815, "dur":2350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1652176529175233, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1652176529175325, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176529175336, "dur":3912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1652176529179338, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1652176529179541, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1652176529179556, "dur":1702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1652176529181332, "dur":218795, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176527547435, "dur":580, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176527548016, "dur":5571, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176527553587, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1652176527553766, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176527557804, "dur":13087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1652176527570951, "dur":91227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1652176527662185, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176527662199, "dur":1509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1652176527663772, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1652176527663912, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176527663922, "dur":9393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1652176527673416, "dur":17966, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game.exe" }}
+,{ "pid":12345, "tid":2, "ts":1652176527691388, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176527691400, "dur":2214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game.exe" }}
+,{ "pid":12345, "tid":2, "ts":1652176527693670, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1652176527693823, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176527694154, "dur":14406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1652176527708640, "dur":83816, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176527792463, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176527792599, "dur":3126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176527795787, "dur":57512, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176527853310, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176527853326, "dur":2591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176527856069, "dur":39016, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176527895091, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176527895105, "dur":1951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176527897125, "dur":30700, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176527927833, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176527927849, "dur":4619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176527932607, "dur":169245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528101862, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176528101878, "dur":6919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528108871, "dur":97962, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528206841, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176528206858, "dur":8024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528214954, "dur":48915, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528263876, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176528263890, "dur":18655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528282624, "dur":75508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528358141, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176528358158, "dur":19299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528377538, "dur":44524, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528422070, "dur":9, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176528422093, "dur":5374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528427538, "dur":34653, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528462196, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176528462216, "dur":1549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528463841, "dur":219343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528683192, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176528683208, "dur":2136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528685425, "dur":241787, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528927220, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176528927236, "dur":1862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528929170, "dur":65038, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528994216, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176528994232, "dur":1876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176528996186, "dur":399943, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176529396134, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1652176529396144, "dur":3879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1652176529400068, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":2, "ts":1652176529400071, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176527547269, "dur":718, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176527547988, "dur":5562, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176527553561, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1652176527553757, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176527557074, "dur":13751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1652176527570918, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1652176527571072, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176527571159, "dur":4971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1652176527576191, "dur":10375, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1652176527586572, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176527586588, "dur":78837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1652176527665523, "dur":94228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176527759758, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176527759912, "dur":9097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176527769076, "dur":71631, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176527840726, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176527840740, "dur":2314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176527843116, "dur":182012, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528025136, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176528025151, "dur":6607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528031839, "dur":99383, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528131230, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176528131246, "dur":81771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528213112, "dur":54494, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528267614, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176528267629, "dur":8527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528276227, "dur":72169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528348404, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176528348419, "dur":3517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528352006, "dur":31292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528383306, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176528383324, "dur":2773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528386180, "dur":36553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528422738, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176528422751, "dur":5061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528427894, "dur":36170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528464070, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176528464084, "dur":5086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528469242, "dur":60347, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528529596, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176528529610, "dur":2030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528531736, "dur":89718, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528621463, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176528621482, "dur":2120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528623682, "dur":114004, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528737695, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176528737711, "dur":2763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528740547, "dur":46685, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528787276, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176528787293, "dur":1964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528789330, "dur":151352, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528940722, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176528940738, "dur":4006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176528944824, "dur":184594, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176529129461, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176529129477, "dur":5912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176529135453, "dur":141463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176529276922, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1652176529276933, "dur":1889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1652176529278869, "dur":121252, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176527547367, "dur":635, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176527548002, "dur":5546, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176527553559, "dur":108773, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1652176527662340, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176527662707, "dur":1615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1652176527664389, "dur":65429, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176527729852, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176527730243, "dur":1762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176527732068, "dur":31390, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176527763467, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176527764044, "dur":1569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176527765677, "dur":34631, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176527800315, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176527801326, "dur":6967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176527808385, "dur":31341, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176527839735, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176527839752, "dur":2923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176527842747, "dur":33563, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176527876880, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176527876896, "dur":17429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176527894400, "dur":44436, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176527938846, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176527938898, "dur":18024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176527957125, "dur":72537, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528029670, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176528029685, "dur":2380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528032136, "dur":75827, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528107970, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176528108213, "dur":25723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528134014, "dur":75194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528209246, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176528209261, "dur":8150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528217493, "dur":3548, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528221071, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176528221086, "dur":1555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528222714, "dur":35603, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528258330, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176528258347, "dur":2014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528260444, "dur":58566, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528319018, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176528319033, "dur":3930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528323172, "dur":199430, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528522610, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176528522625, "dur":5740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528528444, "dur":165644, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528694095, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176528694112, "dur":2590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528696775, "dur":155034, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528851817, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176528851833, "dur":1759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176528853659, "dur":324501, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176529178167, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1652176529178180, "dur":4366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1652176529182612, "dur":217499, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176527547579, "dur":452, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176527548032, "dur":5537, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176527553570, "dur":403, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1652176527553977, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176527556900, "dur":19243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1652176527576220, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1652176527576357, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176527576760, "dur":87122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1652176527663946, "dur":722, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1652176527664672, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176527664684, "dur":2805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1652176527667547, "dur":100713, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1652176527768266, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176527768278, "dur":8027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1652176527776404, "dur":54335, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176527830781, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176527830797, "dur":2607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176527833481, "dur":62531, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176527896019, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176527896032, "dur":14631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176527910749, "dur":167510, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528078267, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176528078282, "dur":1646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528079994, "dur":87924, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528167926, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176528167944, "dur":42151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528210211, "dur":58164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528268381, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176528268394, "dur":1852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528270320, "dur":30949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528301275, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176528301288, "dur":4456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528305862, "dur":39711, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528345581, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176528345596, "dur":13867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528359536, "dur":54413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528413957, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176528413973, "dur":11991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528426051, "dur":31958, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528458016, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176528458032, "dur":2485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528460587, "dur":32411, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528493023, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176528493039, "dur":2241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528495353, "dur":59486, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528554847, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176528554862, "dur":3566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528558519, "dur":422819, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528981347, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176528981363, "dur":3888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176528985323, "dur":58129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176529043460, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176529043476, "dur":6772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176529050319, "dur":283019, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176529333344, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1652176529333355, "dur":1980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1652176529335405, "dur":64723, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652176527547639, "dur":405, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652176527548045, "dur":5516, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652176527553562, "dur":9476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1652176527563044, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652176527563117, "dur":5317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1652176527568510, "dur":14818, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1652176527583335, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652176527583349, "dur":80088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1652176527663508, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1652176527663664, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652176527663680, "dur":307866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1652176527971634, "dur":235828, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528207469, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652176528207482, "dur":4015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528211574, "dur":46762, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528258343, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652176528258357, "dur":3807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528262235, "dur":88550, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528350791, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652176528350822, "dur":11483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528362373, "dur":96265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528458644, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652176528458657, "dur":3281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528462009, "dur":65774, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528527790, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652176528527805, "dur":3450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528531323, "dur":122196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528653561, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652176528653579, "dur":2304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528655968, "dur":164099, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528820076, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652176528820092, "dur":1752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528821916, "dur":82892, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528904817, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652176528904833, "dur":1921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176528906828, "dur":313432, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176529220268, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1652176529220284, "dur":3639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1652176529223998, "dur":176142, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176527547779, "dur":279, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176527548058, "dur":5528, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176527553586, "dur":416, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1652176527554010, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176527557337, "dur":305744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1652176527863156, "dur":35776, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176527898979, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176527899034, "dur":4532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176527903638, "dur":206888, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176528110535, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176528110568, "dur":106781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176528217435, "dur":78641, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176528296084, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176528296100, "dur":10319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176528306488, "dur":67269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176528373765, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176528373781, "dur":19375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176528393224, "dur":41569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176528434801, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176528434816, "dur":25253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176528460147, "dur":66568, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176528526723, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176528526741, "dur":14194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176528541011, "dur":146466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176528687484, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176528687499, "dur":1680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176528689250, "dur":274420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176528963677, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176528963693, "dur":2569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176528966335, "dur":191570, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176529157912, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176529157928, "dur":3441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1652176529161442, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1652176529161513, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176529161525, "dur":2418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1652176529164023, "dur":4186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1652176529168216, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176529168230, "dur":3786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1652176529172092, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/level1.resS" }}
+,{ "pid":12345, "tid":7, "ts":1652176529172175, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176529172190, "dur":2488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/level1.resS" }}
+,{ "pid":12345, "tid":7, "ts":1652176529174890, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1652176529174980, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1652176529175025, "dur":4776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1652176529179865, "dur":220252, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176527547875, "dur":198, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176527548073, "dur":5510, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176527553583, "dur":13094, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1652176527566684, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176527566712, "dur":8389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1652176527575164, "dur":234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1652176527575402, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176527576781, "dur":2507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1652176527579363, "dur":82839, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1652176527662211, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176527662378, "dur":3225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1652176527665678, "dur":309013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176527974697, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176527974709, "dur":29702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528004488, "dur":34957, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528039453, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176528039468, "dur":6544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528046096, "dur":163914, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528210020, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176528210039, "dur":13863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528224071, "dur":77104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528301183, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176528301198, "dur":5095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528306364, "dur":33870, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528340242, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176528340292, "dur":1863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528342227, "dur":35508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528377742, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176528377757, "dur":6665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528384496, "dur":43529, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528428030, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176528428044, "dur":1483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528429590, "dur":74214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528503813, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176528503828, "dur":1702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528505604, "dur":74564, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528580174, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176528580188, "dur":2767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528583031, "dur":143266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528726306, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176528726322, "dur":2278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528728676, "dur":127933, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528856616, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176528856631, "dur":2301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176528859004, "dur":295267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176529154278, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176529154293, "dur":6186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1652176529160548, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1652176529160631, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176529160641, "dur":3165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1652176529163877, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1652176529164078, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176529164091, "dur":2116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1652176529166277, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1652176529166378, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176529166392, "dur":2420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1652176529168883, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/level2" }}
+,{ "pid":12345, "tid":8, "ts":1652176529168950, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176529168959, "dur":4826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/level2" }}
+,{ "pid":12345, "tid":8, "ts":1652176529173849, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1652176529173913, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176529173924, "dur":3122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1652176529177127, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1652176529177206, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1652176529177222, "dur":2901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Rainier/Downloads/Builds/Windows/Pigeon_Attack/Bird_Game_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1652176529180196, "dur":219916, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1652176529406124, "dur":2618, "ph":"X", "name": "ProfilerWriteOutput" }
+,
